@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Brayan Borba
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Brayan, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no Almirante Boiteux e Mairehau high School Nova Zelandia, com o curso online em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no curso Grok Academy. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfolio "[yojordano](https://github.com/yojordano)", e também tenho meu contato pessoal, que é "[yojordano](https://www.instagram.com/yojordano/)".
 
